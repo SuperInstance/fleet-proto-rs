@@ -1,5 +1,15 @@
 # fleet-proto — Shared Fleet Types for Rust
 
+
+## Meta
+
+**Domain:** constraint-theory
+**Depends on:** —
+**Depended by:** —
+**Implements:** Shared fleet types: PLATO client, I2I messages, constraint types, device types
+**Related:** —
+
+
 PLATO client, I2I messaging, constraint types, and device types.
 One crate, every Rust fleet repo depends on it.
 
