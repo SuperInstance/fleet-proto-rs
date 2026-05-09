@@ -1,0 +1,1 @@
+/tmp/fleet-proto-rs/target/debug/libfleet_proto.rlib: /tmp/fleet-proto-rs/src/constraints.rs /tmp/fleet-proto-rs/src/devices.rs /tmp/fleet-proto-rs/src/i2i.rs /tmp/fleet-proto-rs/src/lib.rs /tmp/fleet-proto-rs/src/plato.rs
